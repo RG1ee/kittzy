@@ -1,2 +1,1 @@
-# kittzy
-Config for my profile.
+<h1 align="center"> this profile belongs to kittzy </h1>
